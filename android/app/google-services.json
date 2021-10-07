@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313241689507",
+    "project_id": "fir-proflutter",
+    "storage_bucket": "fir-proflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313241689507:android:aaf80591ed8d872d1c0e16",
+        "android_client_info": {
+          "package_name": "com.assignment.fatima.flutter_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313241689507-aoj3ue7526etbvghhkrngi8ji09hbfh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9_2jG_4jemkXOxkrAfMZ9KvTsFoL3SH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313241689507-aoj3ue7526etbvghhkrngi8ji09hbfh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
